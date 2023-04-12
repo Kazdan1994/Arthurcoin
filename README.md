@@ -1,0 +1,2 @@
+# Arthurcoin
+A new crypto
